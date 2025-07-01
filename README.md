@@ -44,3 +44,15 @@ AI -> MACHINE LEARNING -> DEEP LEARNING
 ### 🤔 Questions I Had
  He showed a lot of machine learning methods such as : 90 base conditions, random fields, random forest support vector machines,...
  He told that AGI - can do almost human's tasks, have not created yet. However, we are now can autovoice chat with GPT,GEMINI,PI for hours, that is not called Artificial General Intelligence ? (AGI)  (turning test ?)
+
+<br><br>
+<br><br>
+<br><br>
+
+## Lec 1.3 Short History of AI - late night 30 June 2025
+### 🔑 Key Takeaways
+ AI was created in around 1950s by a group of sciences
+### 📊 Real-World Examples
+perceptron : devide informations into 2 layers -> and estimate the weight sum -> simulate how the neutron works -> then lay the foundation of Neutral network. 
+### 🧠 Insights & Reflections 
+### 🤔 Questions I Had
