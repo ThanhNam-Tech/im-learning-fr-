@@ -4,6 +4,7 @@ This repo contains personal notes and summaries from my study journey in the Col
 
 
 Lec 1.1_Intro to AI - 30 June 2025
+
 ##🔑 Key Takeaways
  An introduction into many news terms : Deep learning - AGI - Machine learning,...
  AI : the machine that can make decide on perception data which based on probability -> business can take advantages on so many aspects. 
@@ -21,6 +22,7 @@ Lec 1.1_Intro to AI - 30 June 2025
 
 
 Lec 1.2_Intro to AI pt2 - 1 July 2025
+
 ##🔑 Key Takeaways
 
 AI -> MACHINE LEARNING -> DEEP LEARNING
