@@ -110,7 +110,7 @@ reinforcement learning : they dont actully based on input data, this machine do 
 ### 🧠 Insights & Reflections
 the supervised learning and reinforcement is maybe the strongest machine learning methods
 ### 🤔 Questions I Had
-so are there any cost for those methods that are more efficient, i mean are they cost more than the others or hard to build  
+none.
 
 <br><br>
 <br><br>
@@ -125,6 +125,27 @@ so are there any cost for those methods that are more efficient, i mean are they
 ### 1.2 
  - He showed a lot of machine learning methods such as: 90 base conditions, random fields, random forest, support vector machines,...  are they still in use now, wheter not -> why ?
  - He said that AGI – which can do almost all human tasks – has not been created yet. However, we can now autovoice chat with GPT, GEMINI, PI for hours. Isn’t that called Artificial General Intelligence? (AGI) (Turing test?)
+#### solution : 
+-> execpt Decision Trees & Random Forests, all of those methods witness a decline in use or no longer widely used.
+-> It kinda cool to understand it tho, The AGI means that they can understand human and reply by thinking, however, those chatbot like chat GPT,... are predicting what should they should reply, they are not actually thinking, they are mimicking
+### 1.3
+ - There was AI winter I → II and something called "New Hopes" in 2010. What is that?
+#### solution : 
+-> in short, Human things, hopes AI can do everything, set there hopes beyond what AI can acutally does, then disappointed which created AI WINTER.
+-> New hopes in 2010 is a big development in AI learning machine which particularly when AlexNet won the ImageNet competition with deep convolutional neural networks (CNNs). 
+### 1.4
+ - N/A
+#### solution : 
+ -> N/A
+### 1.5
+ - However, based on the emergence of the situation, it could somehow adjust the time to respond 
+I mean, adjust all the systems required for the solving.
+#### solution :
+ -> 	Most AIs can’t think abstractly or handle logic across domains, so like humans, we need the expertise in only one feild which could efficiently use all of the power.
+ ### 1.6
+ - N/A
+#### solution : 
+> N/A
 ## Module 1 Quiz 
     attempt 2 : 5/5 
     attempt 1 : 4/5
