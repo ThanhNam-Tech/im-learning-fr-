@@ -40,7 +40,7 @@ We could train an AI chatbot by feeding it parallel corpora instead of coding an
 AI has been created and developed for decades
 Since now, machine learning is such a powerful system to train AI → leading to the reason why machine learning is the key foundation of recent AI
 ### 🤔 Questions I Had
-He showed a lot of machine learning methods such as: 90 base conditions, random fields, random forest, support vector machines,...  
+He showed a lot of machine learning methods such as: 90 base conditions, random fields, random forest, support vector machines,...  are they still in use now, wheter not -> why ?
 He said that AGI – which can do almost all human tasks – has not been created yet. However, we can now autovoice chat with GPT, GEMINI, PI for hours. Isn’t that called Artificial General Intelligence? (AGI) (Turing test?)
 
 <br><br>
@@ -111,3 +111,20 @@ reinforcement learning : they dont actully based on input data, this machine do 
 the supervised learning and reinforcement is maybe the strongest machine learning methods
 ### 🤔 Questions I Had
 so are there any cost for those methods that are more efficient, i mean are they cost more than the others or hard to build  
+
+<br><br>
+<br><br>
+<br><br>
+# All The Questions I Had In Lec 1
+### 1.1 
+ - He still has not shown me what deep learning and AGI actually are. ?
+ - I tried to make some research and found an interesting difference between "Automation" and "Augmentation" ?
+#### solution : 
+-> The Professor had explained AGI in the rest of Lec 1
+-> Automation means robot can do things themself, Augmentation means robot helps human to do things.
+### 1.2 
+ - He showed a lot of machine learning methods such as: 90 base conditions, random fields, random forest, support vector machines,...  are they still in use now, wheter not -> why ?
+ - He said that AGI – which can do almost all human tasks – has not been created yet. However, we can now autovoice chat with GPT, GEMINI, PI for hours. Isn’t that called Artificial General Intelligence? (AGI) (Turing test?)
+## Module 1 Quiz 
+    attempt 2 : 5/5 
+    attempt 1 : 4/5
