@@ -4,7 +4,7 @@ This repo contains personal notes and summaries from my study journey in the Col
 <br><br>
 <br><br>
 
-## Lec 2.1 Data to Scores Intro - 3  2025
+## Lec 2.1 Data to Scores Intro - 3 July 2025
 
 ### 🔑 Key Takeaways
 - AI models could be trained to be a estimater on some problems
@@ -15,3 +15,36 @@ This repo contains personal notes and summaries from my study journey in the Col
 ### 🤔 Questions I Had
  - The key things that this models aren't popular is AI can not actually collect informations from all the source (email, facebook,...) since it lacked of an AGI to actually understand the informations, so what if we created an AI system that keep tracking on the espacial words like "unhappy
  " angry",... to classify and summit to the chatbot to predict the outcome ??
+<br><br>
+<br><br>
+<br><br>
+## Lec 2.2 Data to Scores: 7 steps overview - 4 July 2025
+### 🔑 Key Takeaways
+End to End build process for ML models<br>
+<br>
+Step 1: Define Target Intelligent Action <br>
+Step 2: Collect Data<br>
+Step 3: Label Data<br>
+Step 4: Extract Features <br>
+Step 5: Design ML Algorithm Architecture <br>
+Step 6: Train Models<br>
+Step 7: Test Models/Predict <br>
+
+
+### 📊 Real-World Examples
+as it just an introduction of 7 first step to build a ML models
+### 🧠 Insights & Reflections
+i think data is the key thing of build an AI
+### 🤔 Questions I Had
+none.
+# Module 2 Self-Check Question: Data to Scores Intro
+        attemp 1 : 2/2
+<br><br>
+<br><br>
+<br><br>
+# All The Questions I Had In Lec 2
+### 1.1 
+ -  The key things that this models aren't popular is AI can not actually collect informations from all the source (email, facebook,...) since it lacked of an AGI to actually understand the informations, so what if we created an AI system that keep tracking on the espacial words like "unhappy
+ " angry",... to classify and summit to the chatbot to predict the outcome ??
+#### solution : 
+-> there were actually many experient over this topic to develop a machine called mini step toward AGI by google, apple,...
