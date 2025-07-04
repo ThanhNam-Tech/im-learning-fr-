@@ -18,7 +18,7 @@ This repo contains personal notes and summaries from my study journey in the Col
 <br><br>
 <br><br>
 <br><br>
-## Lec 2.2 Data to Scores: 7 steps overview - 4 July 2025
+## Lec 2.2 Data to Scores: 7 steps overview - 3 July 2025
 ### 🔑 Key Takeaways
 End to End build process for ML models<br>
 <br>
@@ -34,11 +34,19 @@ Step 7: Test Models/Predict <br>
 ### 📊 Real-World Examples
 as it just an introduction of 7 first step to build a ML models
 ### 🧠 Insights & Reflections
-i think data is the key thing of build an AI
+this lecture still hevily describe that data is the key thing of build an AI
 ### 🤔 Questions I Had
 none.
 # Module 2 Self-Check Question: Data to Scores Intro
         attemp 1 : 2/2
+<br><br>
+<br><br>
+<br><br>
+## Lec 2.3 ML Model Process pt1 - 4 July 2025
+ ### 🔑 Key Takeaways
+term : sentiment  detection engine -> is the machine that predicts humans' feeling through label and even unlabel data.
+step 2 Collect Data : there are two kind of dala clolecting medthods - from recent customer - from historical storage.
+step 3 label data : is the most impacful step for supervised learning - its the input of it
 <br><br>
 <br><br>
 <br><br>
