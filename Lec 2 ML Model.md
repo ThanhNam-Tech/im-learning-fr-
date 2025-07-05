@@ -65,6 +65,23 @@ Why do companies buy user data to train AI, instead of just using something else
 <br><br>
 
 
+
+## Lec 2.4 ML Model Process pt2 - 5 July 2025
+ ### 🔑 Key Takeaways
+term : sentiment  detection engine -> is the machine that predicts humans' feeling through label and even unlabel data.
+step 2 Collect Data : there are two kind of dala clolecting medthods - from recent customer - from historical storage.
+step 3 label data : is the most impacful step for supervised learning - clasify which data could be used
+### 📊 Real-World Examples
+like in the insurance car industry, we need to feed the AI a lot of car images, which car will depict the more terrible status
+### 🧠 Insights & Reflections
+data for training AI systems is the main reason why user's data are now being sell on a high rate.
+### 🤔 Questions I Had
+Why do companies buy user data to train AI, instead of just using something else — like classified or synthetic data?
+
+
+
+
+
 # All The Questions I Had In Lec 2
 ### 2.1
  -  The key things that this models aren't popular is AI can not actually collect informations from all the source (email, facebook,...) since it lacked of an AGI to actually understand the informations, so what if we created an AI system that keep tracking on the espacial words like "unhappy
