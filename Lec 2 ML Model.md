@@ -78,6 +78,22 @@ data for training AI systems is the main reason why user's data are now being se
 ### 🤔 Questions I Had
 Why do companies buy user data to train AI, instead of just using something else — like classified or synthetic data?
 
+<br><br>
+<br><br>
+<br><br>
+
+## Lec 2. ML Model Process pt3 - 5 July 2025
+ ### 🔑 Key Takeaways
+we can build a models using linear regression model by classify information by a line with a function f(x) : ax+b
+
+in the third demension, we also have another one which classify information by a surface function f(x) : Ax + By + Cz+ D
+### 📊 Real-World Examples
+as in the real worlds, to maximine the accuracy of the function, we could upgrade it in to ax^2 or even ax^3
+
+### 🧠 Insights & Reflections
+
+
+### 🤔 Questions I Had
 
 
 
