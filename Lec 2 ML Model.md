@@ -82,7 +82,7 @@ Why do companies buy user data to train AI, instead of just using something else
 <br><br>
 <br><br>
 
-## Lec 2. ML Model Process pt3 - 5 July 2025
+## Lec 2.4 ML Model Process pt3 - 5 July 2025
  ### 🔑 Key Takeaways
 we can build a models using linear regression model by classify information by a line with a function f(x) : ax+b
 
@@ -91,11 +91,28 @@ in the third demension, we also have another one which classify information by a
 as in the real worlds, to maximine the accuracy of the function, we could upgrade it in to ax^2 or even ax^3
 
 ### 🧠 Insights & Reflections
-
+He only gave a general explanation of how the function works in two dimensions. However, in some specific cases, I think we classify information based on whether the function's output (the y-value) is positive or negative, which essentially indicates which side of the boundary the point lies on.
 
 ### 🤔 Questions I Had
 
+so in those modern function, do they claaify information by the value of y ?
 
+
+
+
+<br><br>
+<br><br>
+<br><br>
+
+## Lec 2.5 ML Model Process pt4 - 5 July 2025
+### 🔑 Key Takeaways
+
+### 📊 Real-World Examples
+
+### 🧠 Insights & Reflections
+
+
+### 🤔 Questions I Had
 
 
 # All The Questions I Had In Lec 2
@@ -112,3 +129,8 @@ as in the real worlds, to maximine the accuracy of the function, we could upgrad
  - Why do companies buy user data to train AI, instead of just using something else — like classified or synthetic data?
 #### solution : 
  -> buying real world data is cheaper since it is not labeled, and how ever, labeled data may only work on limited models of AI
+### 2.4
+ - so in those modern function, do they claaify information by the value of y ?
+#### solution : yes, all function even sigma, lim function are also know as f(x) = y, so basically yes.
+ 
+
