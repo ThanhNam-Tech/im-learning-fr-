@@ -106,14 +106,14 @@ so in those modern function, do they claaify information by the value of y ?
 
 ## Lec 2.5 ML Model Process pt4 - 5 July 2025
 ### 🔑 Key Takeaways
-
+training the AI models usually means estimating the parameters 
 ### 📊 Real-World Examples
-
+still the examples of estimating the feeling of one who report something.
 ### 🧠 Insights & Reflections
-
+As a vietNamese student, I had learnt about these mathetic problems deeply, so These informations just remind me, nothing too new
 
 ### 🤔 Questions I Had
-
+none.
 
 # All The Questions I Had In Lec 2
 ### 2.1
