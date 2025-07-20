@@ -111,9 +111,23 @@ training the AI models usually means estimating the parameters
 still the examples of estimating the feeling of one who report something.
 ### 🧠 Insights & Reflections
 As a vietNamese student, I had learnt about these mathetic problems deeply, so These informations just remind me, nothing too new
-
 ### 🤔 Questions I Had
 none.
+
+## Lec 2.6 ML Model Process pt4
+ -> videos is short ( 3 mins) and include the relevant use of how a AI model can.
+
+ ## Lec 2.7 ML Model Process pt5
+-> a conclusion about those previous steps that he has demonstrated. 
+
+## 2.8 Data to Classes pt1
+-> Data to classes means how data should be classified by AI
+### 📊 Real-World Examples
+-> how the email that tagged with spam/ relevant in your DM box.
+
+## 2.9 Data to Classes pt2
+So in the very early state, when you want to build a model, like reading articles then point out the main idea is about A or B, you should made a function which decided by a group of human, who try to classify and process the information.
+
 
 # All The Questions I Had In Lec 2
 ### 2.1
@@ -132,5 +146,9 @@ none.
 ### 2.4
  - so in those modern function, do they claaify information by the value of y ?
 #### solution : yes, all function even sigma, lim function are also know as f(x) = y, so basically yes.
+### 2.5
+- N/A
+#### solution : 
+-> N/A
  
 
