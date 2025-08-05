@@ -128,6 +128,11 @@ none.
 ## 2.9 Data to Classes pt2
 So in the very early state, when you want to build a model, like reading articles then point out the main idea is about A or B, you should made a function which decided by a group of human, who try to classify and process the information.
 
+## 2.10 Data to Classes pt3
+using conditional Probability function to setup a better classfy system
+
+## 2.11 Data to Clusters pt1
+suggesting a method of choosing a key word related to the main topic to eliminate the labeling steps since it expensive and wasting time for bussiness 
 
 # All The Questions I Had In Lec 2
 ### 2.1
