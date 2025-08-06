@@ -134,6 +134,10 @@ using conditional Probability function to setup a better classfy system
 ## 2.11 Data to Clusters pt1
 suggesting a method of choosing a key word related to the main topic to eliminate the labeling steps since it expensive and wasting time for bussiness 
 
+## 2.12 Data to Clusters pt2
+using clustering and K means methods to skip the supervised learning step which are methods that include auto correct by being fed data, and classifying data
+## 2.13 Overview of Deep Learning
+overview of how AI transforms business decision-making and operations, designed for non-technical learners or early college students.
 # All The Questions I Had In Lec 2
 ### 2.1
  -  The key things that this models aren't popular is AI can not actually collect informations from all the source (email, facebook,...) since it lacked of an AGI to actually understand the informations, so what if we created an AI system that keep tracking on the espacial words like "unhappy
