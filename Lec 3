@@ -1,0 +1,9 @@
+## 3.1 Evaluating ML Systems
+When evaluating a Machine Learning model, don’t rely solely on accuracy, especially with skewed datasets. Use the Confusion Matrix values TP, TN, FP, FN — obtained by comparing the model’s predictions with the ground truth on a held-out test set — and apply Precision, Recall, and F1-score formulas for a more reliable performance assessment.
+**Accuracy** = (TP + TN) / (TP + TN + FP + FN)
+
+**Precision** = TP / (TP + FP)
+
+**Recall** = TP / (TP + FN)
+
+**F1-score** = 2 * (Precision * Recall) / (Precision + Recall)
