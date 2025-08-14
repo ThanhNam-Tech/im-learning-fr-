@@ -12,3 +12,9 @@ When evaluating a Machine Learning model, don’t rely solely on accuracy, espec
   Precision = TP / (TP + FP)
   Recall = TP / (TP + FN)
   F1-score = 2 * (Precision * Recall) / (Precision + Recall)
+
+## 3.2 Python Introduction
+ an introduction to Python : an easy-to-learn programming language widely used in Machine Learning due to its clear syntax, extensive libraries, and versatility
+
+## 3.3 Python Datastructures
+Lists in Python store ordered data and are accessed by their index, making them ideal for sequences or rankings. Dictionaries store data as key–value pairs, allowing fast lookups based on unique keys. Choosing between them depends on whether you need to access data by position or by a specific identifier.
