@@ -18,3 +18,7 @@ When evaluating a Machine Learning model, don’t rely solely on accuracy, espec
 
 ## 3.3 Python Datastructures
 Lists in Python store ordered data and are accessed by their index, making them ideal for sequences or rankings. Dictionaries store data as key–value pairs, allowing fast lookups based on unique keys. Choosing between them depends on whether you need to access data by position or by a specific identifier.
+## 3.4 Python Functions
+Functions are reusable blocks of code that can be called from anywhere in a program to perform a specific task.
+They help avoid repeating the same code by allowing you to write it once and reuse it with different inputs.
+For example, a get_average(scores) function can calculate the average for any class just by passing in that class’s scores.
