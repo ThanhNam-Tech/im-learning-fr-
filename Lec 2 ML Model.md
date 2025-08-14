@@ -159,5 +159,17 @@ overview of how AI transforms business decision-making and operations, designed 
 - N/A
 #### solution : 
 -> N/A
+
+
+## Module 2 Self-Check Question: Data to Scores Intro
+    attempt 1 : 2/2
+## Module 2 Self-Check Question: Data to Classes
+    attempt 2 : 2/2
+## Module 2 Self-check Question: Machine Learning and Deep Learning
+    attempt 3 : 9/10
+    attempt 5 : 10/10
+## Module 2 Quiz 
+    attempt 3 : 4.5/5
+    attempt 4 : 5/5    
  
 
