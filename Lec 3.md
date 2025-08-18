@@ -22,3 +22,18 @@ Lists in Python store ordered data and are accessed by their index, making them 
 Functions are reusable blocks of code that can be called from anywhere in a program to perform a specific task.
 They help avoid repeating the same code by allowing you to write it once and reuse it with different inputs.
 For example, a get_average(scores) function can calculate the average for any class just by passing in that class’s scores.
+## 3.5 Python Hash Table
+A hash table is a data structure that stores data as key–value pairs, enabling fast lookups (average O(1)) instead of scanning an entire array. Keys should be as unique as possible to avoid duplicates and collisions.
+## 3.6 Python Conditionals
+Conditional statements let a program make decisions by executing different code blocks depending on whether a Boolean condition is true or false. In Python, this is typically done using if, elif, and else, often combined with logical operators (and, or, not) to form more complex conditions.
+## 3.7 Python Loops
+This lesson explains the concept of loops in programming, demonstrating how while and for loops work in Python with examples such as printing numbers and calculating the average of a list. Loops allow computers to repeat tasks efficiently and handle large amounts of data without effort.
+## 3.8 Python Numpy
+This lesson introduces NumPy, a powerful Python library for numerical computing.
+np.arange(start, stop, step) creates sequences of numbers (e.g., np.arange(0, 12, 2) → [0, 2, 4, 6, 8, 10]).
+reshape() changes the shape of an array without changing its data.
+NumPy arrays make operations on large datasets much faster and easier compared to Python lists.
+## 3.9 Python Pandas
+Learned how to create pandas DataFrames from NumPy arrays, customize column names, and access rows/columns using iloc. Also practiced exploring data with .describe(), .index, and .columns to understand structure and summary statistics.
+## 3.10 Python Variables
+Variables in Python are identifiers that store values in memory, so you can later retrieve or manipulate them. Defining variables is simple (x = 3, y = 6, z = x + y), and Python infers data types automatically (integers, floats, strings, booleans), unlike strongly typed languages (e.g., Java). We also covered order of operations (parentheses, multiplication/division before addition/subtraction), comments using #, and examples with different variable types and expressions. This makes variables the foundation for writing programs and performing computations.
