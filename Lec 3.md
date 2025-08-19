@@ -37,3 +37,20 @@ NumPy arrays make operations on large datasets much faster and easier compared t
 Learned how to create pandas DataFrames from NumPy arrays, customize column names, and access rows/columns using iloc. Also practiced exploring data with .describe(), .index, and .columns to understand structure and summary statistics.
 ## 3.10 Python Variables
 Variables in Python are identifiers that store values in memory, so you can later retrieve or manipulate them. Defining variables is simple (x = 3, y = 6, z = x + y), and Python infers data types automatically (integers, floats, strings, booleans), unlike strongly typed languages (e.g., Java). We also covered order of operations (parentheses, multiplication/division before addition/subtraction), comments using #, and examples with different variable types and expressions. This makes variables the foundation for writing programs and performing computations.
+## 3.11 Getting Dataset
+We use Python and ML libraries (NumPy, Pandas, Matplotlib, scikit-learn) to load and preprocess the LFW face dataset, then build a simple Logistic Regression model to recognize individuals in the images.
+
+The process includes importing libraries, loading data, exploring and wrangling it, splitting into train/test sets, training the model, and evaluating its performance.
+
+## 3.12 Using Dataset
+The LFW face dataset stores images as numerical pixel values with each person assigned a numeric ID, which can be mapped to their actual name for easy visualization and interpretation.
+## 3.13 Building the Model
+The pixel values of each LFW image are stored as a 1D array and reshaped into 2D (50×37) for visualization.
+The dataset is split into train (80%) and test (20%) sets to train a Logistic Regression model for classifying faces.
+The model is then evaluated on unseen test images, and predictions can be visualized alongside the actual images to check accuracy.
+## 3.14 Using ML Models to Make Prediction
+This facial recognition system uses Logistic Regression to classify who a person is in an image based on labeled training data. Each image is flattened into a 1D vector for the model, and predictions are compared with true labels to evaluate accuracy (~84%). To scale for more people, stronger models like CNNs and feature extraction from images are recommended.
+
+
+#Lec 3
+            no test !
