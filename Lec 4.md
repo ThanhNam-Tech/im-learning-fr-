@@ -19,5 +19,5 @@ When working with customer data, it is crucial to distinguish between structured
 1. Building an AI system requires not just algorithms and data, but the right team structure and workflow.
 2. The process involves sequencing: assembling the right roles (AI lead, data scientists, engineers, security), discovering user pain points, collecting and labeling data, and iteratively developing prototypes.
 3. As the product scales, additional engineers and processes ensure stability, security, and alignment with user needs for long-term success.
-4. ## 4.7
+## 4.7
 The lecture explains how to design chatbots or question-answering systems: first define the system type, then choose between agent-driven, human-driven, or hybrid approaches, design the user workflow, and ensure proper data sources. Human-like responses improve customer satisfaction and sales, while hybrid models provide both safety and flexibility. Ultimately, success is measured through clear KPIs such as task completion, satisfaction, and conversion rates.
